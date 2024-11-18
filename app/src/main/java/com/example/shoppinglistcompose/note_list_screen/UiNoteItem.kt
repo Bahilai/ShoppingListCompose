@@ -103,3 +103,4 @@ fun UiNoteItem(
 }
 
 // check my git
+   // Ya zaebalsia s novogo ui, ne mogu potiat kak rabotaet eto huinia
