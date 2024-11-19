@@ -88,7 +88,7 @@ fun UiNoteItem(
                 IconButton(
                     onClick = {
                         onEvent(NoteListEvent.OnShowDeleteDialog(item))
-                    }
+                      }
                 ) {
                     Icon(
                         imageVector = Icons.Default.Delete,
